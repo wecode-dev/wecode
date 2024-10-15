@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Contact US
 
 Template Name: WeCode
 Author: Aravind Marshall

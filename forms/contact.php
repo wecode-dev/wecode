@@ -65,7 +65,7 @@ if(isset($_POST['submit']))
 }
 else
 {
-    header('Location: wecodeindex.html');
+    header('Location: index.html');
     exit(0);
 }
 

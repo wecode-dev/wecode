@@ -578,7 +578,7 @@
           </div>
 
           <div class="col-lg-8">
-            <form action="wecodecontact.php" method="post" data-aos="fade-up" data-aos-delay="200">
+            <form action="contact.php" method="post" data-aos="fade-up" data-aos-delay="200">
               <div class="row gy-4">
 
                 <div class="col-md-6">
@@ -668,7 +668,7 @@ Swal.fire({
 <?php unset($_SESSION['status']); ?>
 
 }
-
+<?php session_stop(); ?>
 </body>
 
 </html>
